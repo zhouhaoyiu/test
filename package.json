@@ -15,6 +15,7 @@
     "vue": "^3.5.39"
   },
   "devDependencies": {
-    "vite": "^8.1.1"
-  }
+    "vite": "^8.1.4"
+  },
+  "packageManager": "pnpm@11.9.0"
 }
